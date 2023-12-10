@@ -1,0 +1,7 @@
+pandas
+mysql-connector-python
+numpy==1.24.4
+scikit-learn
+plotly
+streamlit
+warnings
