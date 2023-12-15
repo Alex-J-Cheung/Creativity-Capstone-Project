@@ -58,7 +58,7 @@ try:
         caption_embeddings = model.encode(sentences)  # embeddings
 
         silhouette_scores = []
-        K_range = range(2, 7)
+        K_range = range(49, 50)
 
         for k in K_range:
             kmeans = KMeans(n_clusters=k, random_state=42)
