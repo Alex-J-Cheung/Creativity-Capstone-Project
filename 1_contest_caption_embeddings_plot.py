@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In this notebook, I will show you how to create an interactive visualization of caption embeddings using a pretrained Sentence-Bert model and TSNE. I will also display this visualization using Streamlit for future sharing. Use kmeans after tsne
-
+# In your console or terminal, type streamlit run 1_contest_caption_embeddings_plot.py to view the plot in Streamlit. 
 # In[1]:
 
 
