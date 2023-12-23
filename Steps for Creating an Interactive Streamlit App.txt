@@ -1,0 +1,11 @@
+Steps for Creating an Interactive Streamlit App for Your Embeddings Plot
+
+1. Upload your python file that has the code for the interactive plot to your Github repository.
+2. Create a text file called "requirements.txt" that has the name of the required packages for your code. It has to be called 
+"requirements.txt" for Streamlit to recognize it.
+3. Please go to this website https://share.streamlit.io/.
+4. Connect with BOTH of your Google and Github accounts. This to have the Streamlit Community Cloud have a connection with your 
+Github repository files where it can load the plot from. 
+5. Click the "New App" Button.
+6. Connect to your Github repository where your files are and select your python file that contains the code for the interactive plot.
+7. Deploy your Streamlit app.
